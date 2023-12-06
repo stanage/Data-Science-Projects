@@ -6,6 +6,7 @@ Task: To advise the firm on what products to produce to stock and what products 
 
 
 ================== RESULTS =============================
+
 From the result, there are 3 clusters (categories), 
 1) Products with high average daily sale and low variation. 
 Advice: These should be made to stock
